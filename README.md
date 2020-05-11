@@ -1,5 +1,3 @@
-# Resetear-MAMP
-
 
 1) Remove Trial Data from files:
 ```
